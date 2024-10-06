@@ -1,0 +1,164 @@
+/* RESEET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(163, 228, 245);
+    height: 70px;
+    padding: 10px;
+}
+
+.container {
+    width: 70%;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.yellow-row {
+    border: 1px dashed black;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 10px;
+}
+
+/* First Section*/
+.first-section {
+    background-color: rgb(2, 2, 154);
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fuchsia-box {
+    background-color: fuchsia;
+    border: 1px solid black;
+    border: 1px dashed black;
+    height: 300px;
+    width: 700px;
+}
+/* /First Section*/
+
+/* Second Section */
+.white-section {
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: rgb(33, 111, 206);
+    border: 1px dashed black;
+    height: 400px;
+    width: 60%;
+}
+
+.pink-box {
+    background-color: pink;
+    border: 1px dashed black;
+    height: 400px;
+    width: 40%;
+}
+/* /Second Section */
+
+/* Third Section */
+.grey-section {
+    background-color: rgb(204, 201, 201);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-pink2 {
+    background-color: pink;
+    border: 1px dashed black;
+    height: 400px;
+    width: 40%;
+}
+
+.box-blue {
+    background-color:  rgb(33, 111, 206);
+    border: 1px dashed black;
+    height: 400px;
+    width: 60%;
+}
+/* /Third Section */
+
+
+/* Fifth Section */
+.green-box {
+    background-color: green;
+    border: 1px dashed black;
+    width: 60%;
+    height: 800px;
+    margin: 30px 0;
+}
+/* /Fifth Section */
+
+section {
+    padding: 30px 0;
+}
+
+/* Sixth Section */
+.black-section {
+    background-color: rgb(66, 65, 65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+
+.red-box {
+    background-color: rgb(227, 113, 113);
+    border: 1px dashed black;
+    height: 500px;
+    width: 40%;
+}
+
+.green-box2 {
+    background-color: rgb(29, 215, 215);
+    border: 1px dashed white;
+    height: 500px;
+    width: 15%;
+}
+/* /Sixth Section */
+
+/* Footer section */
+.footer-row {
+    background-color: rgb(150, 237, 208);
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+}
+.black-footer {
+    background-color:  rgb(66, 65, 65);
+    border-top: 1px solid rgb(204, 201, 201);
+    border-bottom: 1px solid rgb(204, 201, 201);
+}
+/* /Footer section */
+
+.red-logo {
+    background-color:  rgb(227, 113, 113);
+    border: 1px dashed black;
+    padding: 10px;
+}
+.button {
+    background-color:  rgb(227, 113, 113);
+    border: 1px dashed black;
+    padding: 10px;
+}
